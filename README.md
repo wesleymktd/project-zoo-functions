@@ -1,7 +1,7 @@
 ## 🧐 Sobre
 
 <h4 align="left"> 
-	Nesse projeto eu fiquei responsável pelo desenvolvimento de funções utilizando habilidades com ES6 e Higher Order Functions onde a missão é organizar as informações do zoológico como. espécie e local de origem. Além disso, buscar dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. 🧑‍🌾
+	Nesse projeto eu fiquei responsável pelo desenvolvimento de funções utilizando habilidades com ES6 e Higher Order Functions, onde a missão é organizar as informações do zoológico como: espécie e local de origem. Além disso, buscar dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. 🧑‍🌾
   Também foi desenvolvido nesse projeto testes utilizando Jest para testar as funções.
 </h4>
 
