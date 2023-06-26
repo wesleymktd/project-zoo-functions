@@ -1,13 +1,22 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## 🧐 Sobre
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<h4 align="left"> 
+	Nesse projeto eu fiquei responsável pelo desenvolvimento de funções utilizando habilidades com ES6 e Higher Order Functions onde a missão é organizar as informações do zoológico como. espécie e local de origem. Além disso, buscar dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico. 🧑‍🌾
+  Também foi desenvolvido nesse projeto testes utilizando Jest para testar as funções.
+</h4>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## ⚒ Instalando <a name = "installing"></a>
+
+```bash
+# Clone o projeto
+$ git clone git@github.com:wesleymktd/project-zoo-functions.git
+# Acesse
+$ cd ./project-zoo-functions
+# Instale as dependencias
+$ npm install
+
+```
+## Principais tecnologias utilizadas:
+- JavaScript;
+- Jest;
